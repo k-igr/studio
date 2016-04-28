@@ -30,3 +30,5 @@ proguard/
 
 # Android Studio captures folder
 captures/
+/TagScanner/.vs/TagScanner/v14/.suo
+/TagScanner/BLEScanner/obj
